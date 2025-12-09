@@ -176,7 +176,6 @@ High‑level scheme:
 
 ## 🌐 Community and links
 
-- 🌎 **Website / Landing:** https://dark-bot-landing.lovable.app  
-- 🐦 **X (Twitter):** `TBA`   
-- 📣 **Announcements:** `TBA`  
-- 💻 **GitHub (core bot code):** `TBA`
+- 🌎 **Website:** `http://solmeter.fun/`  
+- 🐦 **X (Twitter):** `https://x.com/solmeter_ai`     
+- 💻 **GitHub:** `https://github.com/solanameter`
