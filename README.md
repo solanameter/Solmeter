@@ -1,181 +1,181 @@
-<h1 align="center">NINDIA AI — an Indian crypto bot on SOLANA powered by NVIDIA GPU technologies</h1>
+<h1 align="center">Solmeter AI — smart token analysis on the SOLANA blockchain</h1>
 
 <p align="center">
-  A smart autonomous AI bot for analyzing the crypto market, Blockchain and the Solana DeFi ecosystem.
-</p
+  Solmeter is a tool for fast forecasting and analysis of tokens on the SOLANA (SOL) blockchain using artificial intelligence.
+</p>
 
 ---
 
-## 🔥 Introduction
+## 🚀 About the project
 
-**NINDIA AI** is an autonomous AI bot created in India using **NVIDIA**‑grade GPU technologies that:
+**Solmeter** is a web application for traders and crypto researchers that allows you to:
 
-- automates the routine work of typical outsourcing teams (code, research, reports);
-- understands the crypto market, SOL / SOLANA, DeFi and NFT;
-- analyzes blockchain data in real time;
-- can integrate with Smart contracts and trading tools.
+- quickly assess the current state and prospects of a token on the **SOLANA** blockchain;
+- get an **AI‑powered forecast** of potential growth/decline;
+- see a short analytical breakdown for a selected **Smart contract**.
 
-The goal is to turn **$NINDIA** into one of the top AIs on the AI‑bot market and keep developing the project further.
+You only need to paste the contract address of a Solana token (SPL token), and **Solmeter AI** will automatically:
 
-> ⚠️ The project is built using the NVIDIA technology stack and Indian IT culture. Officially registered in the NVIDIA system.
+- collect key metrics;
+- build a model of the probable token movement;
+- generate a human‑readable text summary.
+
+Solmeter is designed as a fast market “thermometer”: instead of lengthy manual analysis, you get a concise yet informative forecast for any asset you’re interested in — from new meme coins to promising instruments in the SOL ecosystem.
 
 ---
 
 ## 📚 Table of Contents
 
-- [About the project](#about-the-project)
-- [Key NINDIA AI features](#key-nindia-ai-features)
-- [Token $NINDIA](#token-nindia)
-- [Core parameters](#core-parameters)
-- [Quick start for users](#quick-start-for-users)
-- [Roadmap](#roadmap)
-- [Community and links](#community-and-links)
+- [🚀 About the project](#-about-the-project)
+- [✨ Key Features](#-key-features)
+- [🧠 Solmeter AI](#-solmeter-ai)
+- [⚙️ How it works](#️-how-it-works)
+- [🗺 Roadmap](#-roadmap)
+- [❓ FAQ](#-faq)
+- [🔐 Security & Disclaimer](#-security--disclaimer)
+- [🌍 Community](#-community)
 
 ---
 
-## 💡 About the project
+## ✨ Key Features
 
-**NINDIA** is a technological experiment on SOLANA where:
+- **Instant contract‑based analysis**
+  - Paste the token’s **Smart contract** address and get results in a few seconds.
+  - Supports tokens on the **SOLANA (SOL)** blockchain.
 
-- **NINDIA AI** acts as a digital “outsourcer” from India that takes over:
-  - writing and reviewing code;
-  - generating documentation;
-  - finding bugs;
-  - basic crypto research and analytics;
-- the focus is on automating typical tasks that used to be delegated to Indian outsourcing teams;
-- all of this is tied to the token economy of **$NINDIA** and open blockchain integrations.
+- **AI‑driven token forecast**
+  - Solmeter AI builds a **probability estimate of growth/decline**.
+  - Provides a short token summary: situation, risks, overall dynamics.
 
-This repository contains the source code of the **NINDIA AI** landing page: a promo page for investors, the community and early bot users.
+- **Basic on‑chain analytics**
+  - Uses data from the **SOLANA** blockchain and related sources.
+  - Focuses on metrics that affect price behavior and token liquidity.
 
----
+- **User‑friendly interface**
+  - Web application: no installation required.
+  - Minimal actions: paste a contract — get a result.
 
-## 🤖 Key NINDIA AI features
-
-- **Autonomous mode**  
-  The bot works 24/7, can independently collect data, build reports and push signals.
-
-- **Crypto‑focused**  
-  Understands the specifics of:
-  - SOL / SOLANA ecosystems;
-  - DEX / CEX;
-  - DeFi protocols;
-  - NFT collections and on‑chain activity.
-
-- **Blockchain analytics**  
-  Supports analysis of transactions, wallets and basic on‑chain patterns for SOLANA and multichain scenarios.
-
-- **Developer‑tool integration**  
-  Helps with writing and reviewing code, generating examples for smart contracts, documentation and scripts.
-
-- **Flexible architecture**  
-  The project is initially designed as a platform where you can:
-  - connect new data sources;
-  - add modules for trading, alert bots, etc.;
-  - scale under load thanks to NVIDIA‑level GPU infrastructure.
+- **Built for crypto traders**
+  - Quickly evaluate new tokens before entering a position.
+  - Screen potentially dangerous or suspicious assets.
+  - Suitable for meme coins and experimental SPL tokens.
 
 ---
 
-## 💵 Token $NINDIA
+## 🧠 Solmeter AI
 
-### Core parameters
+**Solmeter AI** is the intelligent core of Solmeter that:
 
-- **Name:** NINDIA
-- **Ticker:** `$NINDIA`
-- **Network:** `SOLANA (SOL)`
-- **Standard:** SPL
-- **Type:** utility + meme token for the AI ecosystem
+- works with crypto data related to the SOLANA **blockchain**;
+- takes into account price behavior, on‑chain activity, and market context;
+- generates a **forecast** (tendency to grow / fall / move sideways);
+- produces a **short textual analysis** of the token.
 
-> 📌 Smart contract address:  
-> `TBA` — will be announced after final contract verification and the start of the official launch.
+Examples of what Solmeter AI does:
 
-## ⏱️ Tokenomics
+- Evaluates whether a token looks overheated or undervalued.
+- Highlights sharp spikes/drops in interest.
+- Provides an approximate summary of risks and possible scenarios.
 
-> Final model — adjusted to match actual values.
-
-- 🔹 **Total supply:** `1 000 000 000 $NINDIA`
-- 🔹 **Liquidity and DEX:** `50%`
-- 🔹 **Product development and AI infrastructure:** `20%`
-- 🔹 **Marketing, partnerships, listings:** `15%`
-- 🔹 **Team and core community formation:** `10%`
-- 🔹 **Airdrop / early user rewards:** `5%`
-
-The strategy is to ensure that the growth of real **NINDIA AI** usage supports the value of **$NINDIA**, not the other way around.
+> The goal of Solmeter AI is not to predict the future with 100% accuracy, but to **speed up your own analysis**, give a “second opinion,” and highlight important signals for $Solmeter‑like assets on SOL.
 
 ---
 
-## ⚙️ How NINDIA AI works
+## ⚙️ How it works
 
-High‑level scheme:
+1. **Choose a token**
+   - Copy the token’s **Smart contract** address on SOLANA.
+   - Paste it into the input field in the Solmeter interface.
 
-1. **Data collection**  
-   - on‑chain data (SOLANA, other networks);
-   - market data (prices, volumes, liquidity);
-   - text data (news, Twitter feeds, GitHub activity).
+2. **Data collection**
+   - The service fetches data about the token and its activity in the SOL network.
+   - On‑chain metrics and market parameters are processed.
 
-2. **AI processing**  
-   - models optimized for NVIDIA‑level GPU infrastructure;
-   - extracting insights: trends, risks, potential “hot” spots on the market.
+3. **Solmeter AI processing**
+   - Solmeter AI analyzes the aggregated data.
+   - Produces a numerical estimate and a textual summary.
 
-3. **Signal delivery**  
-   - integrations with Telegram / Discord / web panel;
-   - automatic reports and signals for traders and developers.
-
-4. **Economy via $NINDIA**  
-   - access to advanced features;
-   - priority limits and custom requests;
-   - potential DAO mechanics for governing the bot’s development.
+4. **Displaying the result**
+   - On the screen you see:
+     - a short forecast (growth / decline / uncertainty);
+     - key signals and comments;
+     - additional information about the token (where possible).
 
 ---
 
-## 🚀 Quick start for users
+## 🗺 Roadmap
 
-1. **Open the landing page**  
-   Go to: **https://dark-bot-landing.lovable.app**
+Planned directions for the development of **Solmeter**:
 
-2. **Subscribe for updates**  
-   Find social links and subscribe so you don’t miss the launch of the main NINDIA AI version.
-
-3. **Prepare a SOLANA wallet**
-   - Install a wallet (Phantom, Solflare, etc.);
-   - top up your SOL balance to support `$NINDIA`.
-
-4. **Follow the smart‑contract announcement**  
-   After the smart contract address is published, you’ll be able to buy `$NINDIA` on supported DEXs.
+- [ ] Expanded set of on‑chain metrics for **SOLANA** tokens.
+- [ ] More detailed textual reports from **Solmeter AI**.
+- [ ] Analysis history and saved tokens (watchlist).
+- [ ] Notifications/alerts for selected contracts.
+- [ ] Integration with Telegram/Discord bots.
+- [ ] Expansion beyond SOL — support for other blockchains.
 
 ---
 
-## 📈 Roadmap
+## ❓ FAQ
 
-> Final plan — in progress, will depend on the actual state of the project.
+### What is Solmeter?
 
-**Q4 2024**
+**Solmeter** is an analytical tool for tokens on the **SOLANA** blockchain that, with the help of **Solmeter AI**, provides a quick forecast of their behavior and a short analysis.  
+It is based on public **blockchain** data and machine learning algorithms.
 
-- Development and launch of the **NINDIA AI** landing page
-- Formation of the core team and community
-- Preparation and review of the **$NINDIA** smart contract on **SOLANA**
+---
 
-**Q1 2025**
+### Is this financial advice?
 
-- Deployment and verification of the **$NINDIA** smart contract
-- Liquidity launch on key DEXs
-- Public MVP launch of **NINDIA AI** (online bot)
+No.  
+**Solmeter** and **Solmeter AI** are not financial advice and do not guarantee any result.  
+They are auxiliary tools for your own research. Always do your own research (DYOR) and make decisions according to your risk profile.
 
-**Q2 2025**
+---
 
-- Extended AI‑bot functionality:
-  - on‑chain analytics;
-  - alerts on market events;
-  - assistant for developers.
-- Integrations with major Telegram / Discord chats
+### What data does Solmeter AI use?
 
-**Q3 2025 and beyond**
+**Solmeter AI** works with data related to:
 
-- DAO mechanics for **$NINDIA** holders
-- Partnerships with other AI / Blockchain projects
-- Infrastructure scaling and expansion to new networks
+- the **SOLANA (SOL)** blockchain;
+- token price/action dynamics;
+- basic contract characteristics.
 
-## 🌐 Community and links
+The exact set of metrics may change and expand over time.
 
-- 🌎 **Website:** `http://solmeter.fun/`  
-- 🐦 **X (Twitter):** `https://x.com/solmeter_ai`     
-- 💻 **GitHub:** `https://github.com/solanameter`
+---
+
+### How accurate are the forecasts?
+
+Any forecast for the cryptocurrency market is probabilistic.  
+**Solmeter AI** helps you:
+
+- assess the token’s situation faster;
+- highlight potential risks;
+- get guidance on the current state.
+
+But the decisions to buy/sell are yours alone.
+
+---
+
+### Will other blockchains besides SOLANA be supported?
+
+At the moment, the focus of **Solmeter** is the **SOL / SOLANA** ecosystem.  
+In the future, support for other networks is possible if users demand it.
+
+---
+
+## 🔐 Security & Disclaimer
+
+- **Solmeter** works with public **blockchain** data.
+- Never and under no circumstances **enter your private keys or seed phrases** — neither in Solmeter nor in any other web application.
+- Use **Solmeter** as an auxiliary token analysis tool, not as your only source of truth.
+- The cryptocurrency market is highly risky. You are fully responsible for your own decisions.
+
+---
+
+## 🌍 Community
+
+- 🔗 **Website:** http://solmeter.fun/
+- ✖️ **X (Twitter):** https://x.com/solmeter_ai 
+- 📁 **GitHub:** https://github.com/solanameter/
